@@ -1,0 +1,68 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: 'Inter', system-ui, sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+  body {
+    @apply bg-ink-950 text-slate-200;
+  }
+  * {
+    scrollbar-width: thin;
+    scrollbar-color: #1f2c4d transparent;
+  }
+  *::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+  *::-webkit-scrollbar-thumb {
+    @apply bg-ink-650 rounded-full;
+  }
+  *::-webkit-scrollbar-track {
+    background: transparent;
+  }
+}
+
+@layer components {
+  .card {
+    @apply rounded-2xl border border-ink-700/70 bg-ink-850/80 backdrop-blur-sm shadow-lg shadow-black/20;
+  }
+  .card-light {
+    @apply rounded-2xl border border-slate-200 bg-white shadow-lg shadow-slate-200/50;
+  }
+  .badge {
+    @apply inline-flex items-center gap-1.5 rounded-full px-2.5 py-1 text-xs font-semibold;
+  }
+  .btn-primary {
+    @apply inline-flex items-center justify-center gap-2 rounded-xl bg-gradient-to-r from-ai-500 to-ai-400 px-5 py-3 font-semibold text-ink-950 shadow-lg shadow-ai-500/25 transition-all hover:from-ai-400 hover:to-ai-300 hover:shadow-ai-400/40 active:scale-[0.98] disabled:cursor-not-allowed disabled:opacity-50;
+  }
+  .btn-secondary {
+    @apply inline-flex items-center justify-center gap-2 rounded-xl border border-ink-650 bg-ink-800 px-4 py-2.5 font-medium text-slate-300 transition-all hover:border-ink-600 hover:bg-ink-750 hover:text-white active:scale-[0.98];
+  }
+  .btn-ghost {
+    @apply inline-flex items-center justify-center gap-2 rounded-lg px-3 py-2 font-medium text-slate-400 transition-all hover:bg-ink-800 hover:text-white;
+  }
+  .input-field {
+    @apply w-full rounded-xl border border-ink-650 bg-ink-800/60 px-4 py-3 text-slate-100 placeholder-slate-500 transition-all outline-none focus:border-ai-500 focus:ring-2 focus:ring-ai-500/20;
+  }
+  .chip {
+    @apply cursor-pointer rounded-full border border-ink-650 bg-ink-800/50 px-3 py-1.5 text-sm text-slate-300 transition-all hover:border-ai-500/50 hover:bg-ai-500/10 hover:text-ai-200;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+  .shimmer-bg {
+    background: linear-gradient(90deg, transparent 0%, rgba(34, 211, 238, 0.08) 50%, transparent 100%);
+    background-size: 1000px 100%;
+  }
+  .grid-pattern {
+    background-image: radial-gradient(circle at 1px 1px, rgba(34, 211, 238, 0.06) 1px, transparent 0);
+    background-size: 32px 32px;
+  }
+}
