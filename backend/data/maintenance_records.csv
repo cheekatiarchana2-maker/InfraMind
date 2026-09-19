@@ -1,0 +1,241 @@
+record_id,equipment_type,location,complaint,symptom,likely_cause,recommended_fix,estimated_cost_inr,estimated_time_hours,urgency,status,technician_feedback
+MR-0221,Access Control System,Block D,Access Control System in Block D has card reader not working,Card reader not working,Reader power failure,Check reader power supply and wiring,1000.0,1.5,High,Resolved,Confirmed
+MR-0222,Access Control System,Hostel A,Access Control System at Hostel A is reporting door not unlocking,Door not unlocking,Lock actuator fault,Inspect and replace lock actuator,2200.0,2.0,High,Resolved,Confirmed
+MR-0223,Access Control System,Block B,Access Control System in Block B shows fingerprint not recognized,Fingerprint not recognized,Sensor contamination,Clean fingerprint sensor and recalibrate,600.0,1.0,Medium,Resolved,Confirmed
+MR-0224,Access Control System,Laboratory,Access Control System at Laboratory has a complaint of system offline,System offline,Controller network failure,Check controller network connection,1200.0,1.5,High,Resolved,Confirmed
+MR-0225,Access Control System,Auditorium,Access Control System in Auditorium has card reader not working,Card reader not working,Reader power failure,Check reader power supply and wiring,1000.0,1.5,High,Resolved,Confirmed
+MR-0226,Access Control System,Block D,Access Control System at Block D is reporting door not unlocking,Door not unlocking,Lock actuator fault,Inspect and replace lock actuator,2200.0,2.0,High,Resolved,Confirmed
+MR-0227,Access Control System,Hostel A,Access Control System in Hostel A shows fingerprint not recognized,Fingerprint not recognized,Sensor contamination,Clean fingerprint sensor and recalibrate,600.0,1.0,Medium,Resolved,Confirmed
+MR-0228,Access Control System,Block B,Access Control System at Block B has a complaint of system offline,System offline,Controller network failure,Check controller network connection,1200.0,1.5,High,Resolved,Confirmed
+MR-0229,Access Control System,Laboratory,Access Control System in Laboratory has card reader not working,Card reader not working,Reader power failure,Check reader power supply and wiring,1000.0,1.5,High,Resolved,Confirmed
+MR-0230,Access Control System,Auditorium,Access Control System at Auditorium is reporting door not unlocking,Door not unlocking,Lock actuator fault,Inspect and replace lock actuator,2200.0,2.0,High,Resolved,Confirmed
+MR-0231,Access Control System,Block D,Access Control System in Block D shows fingerprint not recognized,Fingerprint not recognized,Sensor contamination,Clean fingerprint sensor and recalibrate,600.0,1.0,Medium,Resolved,Confirmed
+MR-0232,Access Control System,Hostel A,Access Control System at Hostel A has a complaint of system offline,System offline,Controller network failure,Check controller network connection,1200.0,1.5,High,Resolved,Confirmed
+MR-0233,Access Control System,Block B,Access Control System in Block B has card reader not working,Card reader not working,Reader power failure,Check reader power supply and wiring,1000.0,1.5,High,Resolved,Confirmed
+MR-0234,Access Control System,Laboratory,Access Control System at Laboratory is reporting door not unlocking,Door not unlocking,Lock actuator fault,Inspect and replace lock actuator,2200.0,2.0,High,Resolved,Confirmed
+MR-0235,Access Control System,Auditorium,Access Control System in Auditorium shows fingerprint not recognized,Fingerprint not recognized,Sensor contamination,Clean fingerprint sensor and recalibrate,600.0,1.0,Medium,Resolved,Confirmed
+MR-0236,Access Control System,Block D,Access Control System at Block D has a complaint of system offline,System offline,Controller network failure,Check controller network connection,1200.0,1.5,High,Resolved,Confirmed
+MR-0237,Access Control System,Hostel A,Access Control System in Hostel A has card reader not working,Card reader not working,Reader power failure,Check reader power supply and wiring,1000.0,1.5,High,Resolved,Confirmed
+MR-0238,Access Control System,Block B,Access Control System at Block B is reporting door not unlocking,Door not unlocking,Lock actuator fault,Inspect and replace lock actuator,2200.0,2.0,High,Resolved,Confirmed
+MR-0239,Access Control System,Laboratory,Access Control System in Laboratory shows fingerprint not recognized,Fingerprint not recognized,Sensor contamination,Clean fingerprint sensor and recalibrate,600.0,1.0,Medium,Resolved,Confirmed
+MR-0240,Access Control System,Auditorium,Access Control System at Auditorium has a complaint of system offline,System offline,Controller network failure,Check controller network connection,1200.0,1.5,High,Resolved,Confirmed
+MR-0001,Air Conditioner,Block D,Air Conditioner in Block D has not cooling,Not cooling,Low refrigerant,Check for leaks and recharge refrigerant,1800.0,2.0,High,Resolved,Confirmed
+MR-0002,Air Conditioner,Hostel A,Air Conditioner at Hostel A is reporting not cooling,Not cooling,Dirty air filter,Clean or replace air filter,500.0,1.0,Medium,Resolved,Confirmed
+MR-0003,Air Conditioner,Block B,Air Conditioner in Block B shows loud buzzing noise,Loud buzzing noise,Fan motor bearing failure,Inspect fan motor and replace bearing/motor if required,3000.0,3.0,High,Resolved,Confirmed
+MR-0004,Air Conditioner,Laboratory,Air Conditioner at Laboratory has a complaint of water leaking,Water leaking,Blocked condensate drain,Flush and clean condensate drain line,900.0,1.5,Medium,Resolved,Confirmed
+MR-0005,Air Conditioner,Auditorium,Air Conditioner in Auditorium has frequent power trips,Frequent power trips,Compressor electrical fault,Inspect compressor wiring and electrical components,3500.0,3.0,High,Resolved,Confirmed
+MR-0006,Air Conditioner,Block D,Air Conditioner at Block D is reporting weak airflow,Weak airflow,Clogged evaporator coil,Clean evaporator coil and restore airflow,1500.0,2.0,Medium,Resolved,Confirmed
+MR-0007,Air Conditioner,Hostel A,Air Conditioner in Hostel A shows unusual vibration,Unusual vibration,Loose fan assembly,Tighten and balance fan assembly,800.0,1.5,Medium,Resolved,Confirmed
+MR-0008,Air Conditioner,Block B,Air Conditioner at Block B has a complaint of not cooling,Not cooling,Low refrigerant,Check for leaks and recharge refrigerant,1800.0,2.0,High,Resolved,Confirmed
+MR-0009,Air Conditioner,Laboratory,Air Conditioner in Laboratory has not cooling,Not cooling,Dirty air filter,Clean or replace air filter,500.0,1.0,Medium,Resolved,Confirmed
+MR-0010,Air Conditioner,Auditorium,Air Conditioner at Auditorium is reporting loud buzzing noise,Loud buzzing noise,Fan motor bearing failure,Inspect fan motor and replace bearing/motor if required,3000.0,3.0,High,Resolved,Confirmed
+MR-0011,Air Conditioner,Block D,Air Conditioner in Block D shows water leaking,Water leaking,Blocked condensate drain,Flush and clean condensate drain line,900.0,1.5,Medium,Resolved,Confirmed
+MR-0012,Air Conditioner,Hostel A,Air Conditioner at Hostel A has a complaint of frequent power trips,Frequent power trips,Compressor electrical fault,Inspect compressor wiring and electrical components,3500.0,3.0,High,Resolved,Confirmed
+MR-0013,Air Conditioner,Block B,Air Conditioner in Block B has weak airflow,Weak airflow,Clogged evaporator coil,Clean evaporator coil and restore airflow,1500.0,2.0,Medium,Resolved,Confirmed
+MR-0014,Air Conditioner,Laboratory,Air Conditioner at Laboratory is reporting unusual vibration,Unusual vibration,Loose fan assembly,Tighten and balance fan assembly,800.0,1.5,Medium,Resolved,Confirmed
+MR-0015,Air Conditioner,Auditorium,Air Conditioner in Auditorium shows not cooling,Not cooling,Low refrigerant,Check for leaks and recharge refrigerant,1800.0,2.0,High,Resolved,Confirmed
+MR-0016,Air Conditioner,Block D,Air Conditioner at Block D has a complaint of not cooling,Not cooling,Dirty air filter,Clean or replace air filter,500.0,1.0,Medium,Resolved,Confirmed
+MR-0017,Air Conditioner,Hostel A,Air Conditioner in Hostel A has loud buzzing noise,Loud buzzing noise,Fan motor bearing failure,Inspect fan motor and replace bearing/motor if required,3000.0,3.0,High,Resolved,Confirmed
+MR-0018,Air Conditioner,Block B,Air Conditioner at Block B is reporting water leaking,Water leaking,Blocked condensate drain,Flush and clean condensate drain line,900.0,1.5,Medium,Resolved,Confirmed
+MR-0019,Air Conditioner,Laboratory,Air Conditioner in Laboratory shows frequent power trips,Frequent power trips,Compressor electrical fault,Inspect compressor wiring and electrical components,3500.0,3.0,High,Resolved,Confirmed
+MR-0020,Air Conditioner,Auditorium,Air Conditioner at Auditorium has a complaint of weak airflow,Weak airflow,Clogged evaporator coil,Clean evaporator coil and restore airflow,1500.0,2.0,Medium,Resolved,Confirmed
+MR-0121,CCTV Camera,Block D,CCTV Camera in Block D has no video feed,No video feed,Network connection failure,Check network connection and camera connectivity,800.0,1.5,High,Resolved,Confirmed
+MR-0122,CCTV Camera,Hostel A,CCTV Camera at Hostel A is reporting blurry image,Blurry image,Dirty camera lens,Clean camera lens and verify image quality,300.0,0.5,Low,Resolved,Confirmed
+MR-0123,CCTV Camera,Block B,CCTV Camera in Block B shows camera offline,Camera offline,Power supply failure,Check power adapter and restore camera power,1200.0,1.5,High,Resolved,Confirmed
+MR-0124,CCTV Camera,Laboratory,CCTV Camera at Laboratory has a complaint of night vision not working,Night vision not working,IR LED failure,Inspect and replace IR LED module,1800.0,2.0,Medium,Resolved,Confirmed
+MR-0125,CCTV Camera,Auditorium,CCTV Camera in Auditorium has recording unavailable,Recording unavailable,Storage device failure,Inspect and replace recording storage device,4000.0,3.0,High,Resolved,Confirmed
+MR-0126,CCTV Camera,Block D,CCTV Camera at Block D is reporting no video feed,No video feed,Network connection failure,Check network connection and camera connectivity,800.0,1.5,High,Resolved,Confirmed
+MR-0127,CCTV Camera,Hostel A,CCTV Camera in Hostel A shows blurry image,Blurry image,Dirty camera lens,Clean camera lens and verify image quality,300.0,0.5,Low,Resolved,Confirmed
+MR-0128,CCTV Camera,Block B,CCTV Camera at Block B has a complaint of camera offline,Camera offline,Power supply failure,Check power adapter and restore camera power,1200.0,1.5,High,Resolved,Confirmed
+MR-0129,CCTV Camera,Laboratory,CCTV Camera in Laboratory has night vision not working,Night vision not working,IR LED failure,Inspect and replace IR LED module,1800.0,2.0,Medium,Resolved,Confirmed
+MR-0130,CCTV Camera,Auditorium,CCTV Camera at Auditorium is reporting recording unavailable,Recording unavailable,Storage device failure,Inspect and replace recording storage device,4000.0,3.0,High,Resolved,Confirmed
+MR-0131,CCTV Camera,Block D,CCTV Camera in Block D shows no video feed,No video feed,Network connection failure,Check network connection and camera connectivity,800.0,1.5,High,Resolved,Confirmed
+MR-0132,CCTV Camera,Hostel A,CCTV Camera at Hostel A has a complaint of blurry image,Blurry image,Dirty camera lens,Clean camera lens and verify image quality,300.0,0.5,Low,Resolved,Confirmed
+MR-0133,CCTV Camera,Block B,CCTV Camera in Block B has camera offline,Camera offline,Power supply failure,Check power adapter and restore camera power,1200.0,1.5,High,Resolved,Confirmed
+MR-0134,CCTV Camera,Laboratory,CCTV Camera at Laboratory is reporting night vision not working,Night vision not working,IR LED failure,Inspect and replace IR LED module,1800.0,2.0,Medium,Resolved,Confirmed
+MR-0135,CCTV Camera,Auditorium,CCTV Camera in Auditorium shows recording unavailable,Recording unavailable,Storage device failure,Inspect and replace recording storage device,4000.0,3.0,High,Resolved,Confirmed
+MR-0136,CCTV Camera,Block D,CCTV Camera at Block D has a complaint of no video feed,No video feed,Network connection failure,Check network connection and camera connectivity,800.0,1.5,High,Resolved,Confirmed
+MR-0137,CCTV Camera,Hostel A,CCTV Camera in Hostel A has blurry image,Blurry image,Dirty camera lens,Clean camera lens and verify image quality,300.0,0.5,Low,Resolved,Confirmed
+MR-0138,CCTV Camera,Block B,CCTV Camera at Block B is reporting camera offline,Camera offline,Power supply failure,Check power adapter and restore camera power,1200.0,1.5,High,Resolved,Confirmed
+MR-0139,CCTV Camera,Laboratory,CCTV Camera in Laboratory shows night vision not working,Night vision not working,IR LED failure,Inspect and replace IR LED module,1800.0,2.0,Medium,Resolved,Confirmed
+MR-0140,CCTV Camera,Auditorium,CCTV Camera at Auditorium has a complaint of recording unavailable,Recording unavailable,Storage device failure,Inspect and replace recording storage device,4000.0,3.0,High,Resolved,Confirmed
+MR-0101,Electrical Panel,Block D,Electrical Panel in Block D has frequent circuit trips,Frequent circuit trips,Overloaded circuit,Inspect load distribution and redistribute connected loads,2000.0,2.0,High,Resolved,Confirmed
+MR-0102,Electrical Panel,Hostel A,Electrical Panel at Hostel A is reporting panel overheating,Panel overheating,Loose electrical connection,Tighten connections and inspect thermal condition,1800.0,2.0,Critical,Resolved,Confirmed
+MR-0103,Electrical Panel,Block B,Electrical Panel in Block B shows burning smell,Burning smell,Damaged cable insulation,Isolate circuit and replace damaged cable,3000.0,3.0,Critical,Resolved,Confirmed
+MR-0104,Electrical Panel,Laboratory,Electrical Panel at Laboratory has a complaint of breaker not resetting,Breaker not resetting,Faulty circuit breaker,Test and replace circuit breaker,2200.0,2.0,High,Resolved,Confirmed
+MR-0105,Electrical Panel,Auditorium,Electrical Panel in Auditorium has voltage fluctuation,Voltage fluctuation,Loose incoming connection,Inspect incoming connection and tighten terminals,1600.0,2.0,High,Resolved,Confirmed
+MR-0106,Electrical Panel,Block D,Electrical Panel at Block D is reporting frequent circuit trips,Frequent circuit trips,Overloaded circuit,Inspect load distribution and redistribute connected loads,2000.0,2.0,High,Resolved,Confirmed
+MR-0107,Electrical Panel,Hostel A,Electrical Panel in Hostel A shows panel overheating,Panel overheating,Loose electrical connection,Tighten connections and inspect thermal condition,1800.0,2.0,Critical,Resolved,Confirmed
+MR-0108,Electrical Panel,Block B,Electrical Panel at Block B has a complaint of burning smell,Burning smell,Damaged cable insulation,Isolate circuit and replace damaged cable,3000.0,3.0,Critical,Resolved,Confirmed
+MR-0109,Electrical Panel,Laboratory,Electrical Panel in Laboratory has breaker not resetting,Breaker not resetting,Faulty circuit breaker,Test and replace circuit breaker,2200.0,2.0,High,Resolved,Confirmed
+MR-0110,Electrical Panel,Auditorium,Electrical Panel at Auditorium is reporting voltage fluctuation,Voltage fluctuation,Loose incoming connection,Inspect incoming connection and tighten terminals,1600.0,2.0,High,Resolved,Confirmed
+MR-0111,Electrical Panel,Block D,Electrical Panel in Block D shows frequent circuit trips,Frequent circuit trips,Overloaded circuit,Inspect load distribution and redistribute connected loads,2000.0,2.0,High,Resolved,Confirmed
+MR-0112,Electrical Panel,Hostel A,Electrical Panel at Hostel A has a complaint of panel overheating,Panel overheating,Loose electrical connection,Tighten connections and inspect thermal condition,1800.0,2.0,Critical,Resolved,Confirmed
+MR-0113,Electrical Panel,Block B,Electrical Panel in Block B has burning smell,Burning smell,Damaged cable insulation,Isolate circuit and replace damaged cable,3000.0,3.0,Critical,Resolved,Confirmed
+MR-0114,Electrical Panel,Laboratory,Electrical Panel at Laboratory is reporting breaker not resetting,Breaker not resetting,Faulty circuit breaker,Test and replace circuit breaker,2200.0,2.0,High,Resolved,Confirmed
+MR-0115,Electrical Panel,Auditorium,Electrical Panel in Auditorium shows voltage fluctuation,Voltage fluctuation,Loose incoming connection,Inspect incoming connection and tighten terminals,1600.0,2.0,High,Resolved,Confirmed
+MR-0116,Electrical Panel,Block D,Electrical Panel at Block D has a complaint of frequent circuit trips,Frequent circuit trips,Overloaded circuit,Inspect load distribution and redistribute connected loads,2000.0,2.0,High,Resolved,Confirmed
+MR-0117,Electrical Panel,Hostel A,Electrical Panel in Hostel A has panel overheating,Panel overheating,Loose electrical connection,Tighten connections and inspect thermal condition,1800.0,2.0,Critical,Resolved,Confirmed
+MR-0118,Electrical Panel,Block B,Electrical Panel at Block B is reporting burning smell,Burning smell,Damaged cable insulation,Isolate circuit and replace damaged cable,3000.0,3.0,Critical,Resolved,Confirmed
+MR-0119,Electrical Panel,Laboratory,Electrical Panel in Laboratory shows breaker not resetting,Breaker not resetting,Faulty circuit breaker,Test and replace circuit breaker,2200.0,2.0,High,Resolved,Confirmed
+MR-0120,Electrical Panel,Auditorium,Electrical Panel at Auditorium has a complaint of voltage fluctuation,Voltage fluctuation,Loose incoming connection,Inspect incoming connection and tighten terminals,1600.0,2.0,High,Resolved,Confirmed
+MR-0021,Elevator,Block D,Elevator in Block D has doors not closing,Doors not closing,Door sensor misalignment,Align and test door sensors,1200.0,2.0,High,Resolved,Confirmed
+MR-0022,Elevator,Hostel A,Elevator at Hostel A is reporting elevator stopping between floors,Elevator stopping between floors,Position sensor fault,Inspect and replace position sensor,4500.0,4.0,Critical,Resolved,Confirmed
+MR-0023,Elevator,Block B,Elevator in Block B shows slow movement,Slow movement,Drive system wear,Inspect drive system and replace worn components,6000.0,5.0,High,Resolved,Confirmed
+MR-0024,Elevator,Laboratory,Elevator at Laboratory has a complaint of unusual grinding noise,Unusual grinding noise,Worn guide rollers,Inspect and replace guide rollers,4000.0,4.0,High,Resolved,Confirmed
+MR-0025,Elevator,Auditorium,Elevator in Auditorium has door opening slowly,Door opening slowly,Door motor wear,Inspect and replace door motor,3500.0,3.5,High,Resolved,Confirmed
+MR-0026,Elevator,Block D,Elevator at Block D is reporting control panel unresponsive,Control panel unresponsive,Controller communication fault,Inspect controller connections and communication module,5000.0,4.0,High,Resolved,Confirmed
+MR-0027,Elevator,Hostel A,Elevator in Hostel A shows doors not closing,Doors not closing,Door sensor misalignment,Align and test door sensors,1200.0,2.0,High,Resolved,Confirmed
+MR-0028,Elevator,Block B,Elevator at Block B has a complaint of elevator stopping between floors,Elevator stopping between floors,Position sensor fault,Inspect and replace position sensor,4500.0,4.0,Critical,Resolved,Confirmed
+MR-0029,Elevator,Laboratory,Elevator in Laboratory has slow movement,Slow movement,Drive system wear,Inspect drive system and replace worn components,6000.0,5.0,High,Resolved,Confirmed
+MR-0030,Elevator,Auditorium,Elevator at Auditorium is reporting unusual grinding noise,Unusual grinding noise,Worn guide rollers,Inspect and replace guide rollers,4000.0,4.0,High,Resolved,Confirmed
+MR-0031,Elevator,Block D,Elevator in Block D shows door opening slowly,Door opening slowly,Door motor wear,Inspect and replace door motor,3500.0,3.5,High,Resolved,Confirmed
+MR-0032,Elevator,Hostel A,Elevator at Hostel A has a complaint of control panel unresponsive,Control panel unresponsive,Controller communication fault,Inspect controller connections and communication module,5000.0,4.0,High,Resolved,Confirmed
+MR-0033,Elevator,Block B,Elevator in Block B has doors not closing,Doors not closing,Door sensor misalignment,Align and test door sensors,1200.0,2.0,High,Resolved,Confirmed
+MR-0034,Elevator,Laboratory,Elevator at Laboratory is reporting elevator stopping between floors,Elevator stopping between floors,Position sensor fault,Inspect and replace position sensor,4500.0,4.0,Critical,Resolved,Confirmed
+MR-0035,Elevator,Auditorium,Elevator in Auditorium shows slow movement,Slow movement,Drive system wear,Inspect drive system and replace worn components,6000.0,5.0,High,Resolved,Confirmed
+MR-0036,Elevator,Block D,Elevator at Block D has a complaint of unusual grinding noise,Unusual grinding noise,Worn guide rollers,Inspect and replace guide rollers,4000.0,4.0,High,Resolved,Confirmed
+MR-0037,Elevator,Hostel A,Elevator in Hostel A has door opening slowly,Door opening slowly,Door motor wear,Inspect and replace door motor,3500.0,3.5,High,Resolved,Confirmed
+MR-0038,Elevator,Block B,Elevator at Block B is reporting control panel unresponsive,Control panel unresponsive,Controller communication fault,Inspect controller connections and communication module,5000.0,4.0,High,Resolved,Confirmed
+MR-0039,Elevator,Laboratory,Elevator in Laboratory shows doors not closing,Doors not closing,Door sensor misalignment,Align and test door sensors,1200.0,2.0,High,Resolved,Confirmed
+MR-0040,Elevator,Auditorium,Elevator at Auditorium has a complaint of elevator stopping between floors,Elevator stopping between floors,Position sensor fault,Inspect and replace position sensor,4500.0,4.0,Critical,Resolved,Confirmed
+MR-0201,Fire Alarm,Block D,Fire Alarm in Block D has false alarm,False alarm,Smoke detector contamination,Clean detector and test sensitivity,900.0,1.5,High,Resolved,Confirmed
+MR-0202,Fire Alarm,Hostel A,Fire Alarm at Hostel A is reporting detector offline,Detector offline,Wiring connection fault,Inspect detector wiring and restore connection,1200.0,1.5,High,Resolved,Confirmed
+MR-0203,Fire Alarm,Block B,Fire Alarm in Block B shows alarm not sounding,Alarm not sounding,Siren failure,Test and replace alarm siren,1800.0,2.0,Critical,Resolved,Confirmed
+MR-0204,Fire Alarm,Laboratory,Fire Alarm at Laboratory has a complaint of control panel fault,Control panel fault,Backup battery failure,Replace backup battery and test panel,1500.0,1.5,High,Resolved,Confirmed
+MR-0205,Fire Alarm,Auditorium,Fire Alarm in Auditorium has false alarm,False alarm,Smoke detector contamination,Clean detector and test sensitivity,900.0,1.5,High,Resolved,Confirmed
+MR-0206,Fire Alarm,Block D,Fire Alarm at Block D is reporting detector offline,Detector offline,Wiring connection fault,Inspect detector wiring and restore connection,1200.0,1.5,High,Resolved,Confirmed
+MR-0207,Fire Alarm,Hostel A,Fire Alarm in Hostel A shows alarm not sounding,Alarm not sounding,Siren failure,Test and replace alarm siren,1800.0,2.0,Critical,Resolved,Confirmed
+MR-0208,Fire Alarm,Block B,Fire Alarm at Block B has a complaint of control panel fault,Control panel fault,Backup battery failure,Replace backup battery and test panel,1500.0,1.5,High,Resolved,Confirmed
+MR-0209,Fire Alarm,Laboratory,Fire Alarm in Laboratory has false alarm,False alarm,Smoke detector contamination,Clean detector and test sensitivity,900.0,1.5,High,Resolved,Confirmed
+MR-0210,Fire Alarm,Auditorium,Fire Alarm at Auditorium is reporting detector offline,Detector offline,Wiring connection fault,Inspect detector wiring and restore connection,1200.0,1.5,High,Resolved,Confirmed
+MR-0211,Fire Alarm,Block D,Fire Alarm in Block D shows alarm not sounding,Alarm not sounding,Siren failure,Test and replace alarm siren,1800.0,2.0,Critical,Resolved,Confirmed
+MR-0212,Fire Alarm,Hostel A,Fire Alarm at Hostel A has a complaint of control panel fault,Control panel fault,Backup battery failure,Replace backup battery and test panel,1500.0,1.5,High,Resolved,Confirmed
+MR-0213,Fire Alarm,Block B,Fire Alarm in Block B has false alarm,False alarm,Smoke detector contamination,Clean detector and test sensitivity,900.0,1.5,High,Resolved,Confirmed
+MR-0214,Fire Alarm,Laboratory,Fire Alarm at Laboratory is reporting detector offline,Detector offline,Wiring connection fault,Inspect detector wiring and restore connection,1200.0,1.5,High,Resolved,Confirmed
+MR-0215,Fire Alarm,Auditorium,Fire Alarm in Auditorium shows alarm not sounding,Alarm not sounding,Siren failure,Test and replace alarm siren,1800.0,2.0,Critical,Resolved,Confirmed
+MR-0216,Fire Alarm,Block D,Fire Alarm at Block D has a complaint of control panel fault,Control panel fault,Backup battery failure,Replace backup battery and test panel,1500.0,1.5,High,Resolved,Confirmed
+MR-0217,Fire Alarm,Hostel A,Fire Alarm in Hostel A has false alarm,False alarm,Smoke detector contamination,Clean detector and test sensitivity,900.0,1.5,High,Resolved,Confirmed
+MR-0218,Fire Alarm,Block B,Fire Alarm at Block B is reporting detector offline,Detector offline,Wiring connection fault,Inspect detector wiring and restore connection,1200.0,1.5,High,Resolved,Confirmed
+MR-0219,Fire Alarm,Laboratory,Fire Alarm in Laboratory shows alarm not sounding,Alarm not sounding,Siren failure,Test and replace alarm siren,1800.0,2.0,Critical,Resolved,Confirmed
+MR-0220,Fire Alarm,Auditorium,Fire Alarm at Auditorium has a complaint of control panel fault,Control panel fault,Backup battery failure,Replace backup battery and test panel,1500.0,1.5,High,Resolved,Confirmed
+MR-0041,Generator,Block D,Generator in Block D has generator not starting,Generator not starting,Weak battery,Test and replace starting battery,4500.0,2.0,Critical,Resolved,Confirmed
+MR-0042,Generator,Hostel A,Generator at Hostel A is reporting low output voltage,Low output voltage,Voltage regulator fault,Test and replace voltage regulator,5500.0,3.0,High,Resolved,Confirmed
+MR-0043,Generator,Block B,Generator in Block B shows engine overheating,Engine overheating,Low coolant level,Inspect cooling system and refill coolant,1800.0,2.0,High,Resolved,Confirmed
+MR-0044,Generator,Laboratory,Generator at Laboratory has a complaint of excessive smoke,Excessive smoke,Dirty air filter,Replace air filter and inspect combustion,1400.0,2.0,High,Resolved,Confirmed
+MR-0045,Generator,Auditorium,Generator in Auditorium has fuel leakage,Fuel leakage,Damaged fuel line,Replace damaged fuel line and test for leaks,2200.0,2.5,Critical,Resolved,Confirmed
+MR-0046,Generator,Block D,Generator at Block D is reporting high vibration,High vibration,Engine mounting looseness,Tighten or replace engine mounts,3000.0,3.0,High,Resolved,Confirmed
+MR-0047,Generator,Hostel A,Generator in Hostel A shows generator not starting,Generator not starting,Weak battery,Test and replace starting battery,4500.0,2.0,Critical,Resolved,Confirmed
+MR-0048,Generator,Block B,Generator at Block B has a complaint of low output voltage,Low output voltage,Voltage regulator fault,Test and replace voltage regulator,5500.0,3.0,High,Resolved,Confirmed
+MR-0049,Generator,Laboratory,Generator in Laboratory has engine overheating,Engine overheating,Low coolant level,Inspect cooling system and refill coolant,1800.0,2.0,High,Resolved,Confirmed
+MR-0050,Generator,Auditorium,Generator at Auditorium is reporting excessive smoke,Excessive smoke,Dirty air filter,Replace air filter and inspect combustion,1400.0,2.0,High,Resolved,Confirmed
+MR-0051,Generator,Block D,Generator in Block D shows fuel leakage,Fuel leakage,Damaged fuel line,Replace damaged fuel line and test for leaks,2200.0,2.5,Critical,Resolved,Confirmed
+MR-0052,Generator,Hostel A,Generator at Hostel A has a complaint of high vibration,High vibration,Engine mounting looseness,Tighten or replace engine mounts,3000.0,3.0,High,Resolved,Confirmed
+MR-0053,Generator,Block B,Generator in Block B has generator not starting,Generator not starting,Weak battery,Test and replace starting battery,4500.0,2.0,Critical,Resolved,Confirmed
+MR-0054,Generator,Laboratory,Generator at Laboratory is reporting low output voltage,Low output voltage,Voltage regulator fault,Test and replace voltage regulator,5500.0,3.0,High,Resolved,Confirmed
+MR-0055,Generator,Auditorium,Generator in Auditorium shows engine overheating,Engine overheating,Low coolant level,Inspect cooling system and refill coolant,1800.0,2.0,High,Resolved,Confirmed
+MR-0056,Generator,Block D,Generator at Block D has a complaint of excessive smoke,Excessive smoke,Dirty air filter,Replace air filter and inspect combustion,1400.0,2.0,High,Resolved,Confirmed
+MR-0057,Generator,Hostel A,Generator in Hostel A has fuel leakage,Fuel leakage,Damaged fuel line,Replace damaged fuel line and test for leaks,2200.0,2.5,Critical,Resolved,Confirmed
+MR-0058,Generator,Block B,Generator at Block B is reporting high vibration,High vibration,Engine mounting looseness,Tighten or replace engine mounts,3000.0,3.0,High,Resolved,Confirmed
+MR-0059,Generator,Laboratory,Generator in Laboratory shows generator not starting,Generator not starting,Weak battery,Test and replace starting battery,4500.0,2.0,Critical,Resolved,Confirmed
+MR-0060,Generator,Auditorium,Generator at Auditorium has a complaint of low output voltage,Low output voltage,Voltage regulator fault,Test and replace voltage regulator,5500.0,3.0,High,Resolved,Confirmed
+MR-0081,Projector,Block D,Projector in Block D has no display,No display,Lamp failure,Replace projector lamp and test display,5000.0,2.0,High,Resolved,Confirmed
+MR-0082,Projector,Hostel A,Projector at Hostel A is reporting dim display,Dim display,Lamp nearing end of life,Replace projector lamp,5000.0,1.5,Medium,Resolved,Confirmed
+MR-0083,Projector,Block B,Projector in Block B shows overheating,Overheating,Blocked ventilation filter,Clean ventilation filter and cooling path,900.0,1.5,Medium,Resolved,Confirmed
+MR-0084,Projector,Laboratory,Projector at Laboratory has a complaint of image flickering,Image flickering,Loose display cable,Reconnect or replace display cable,700.0,1.0,Medium,Resolved,Confirmed
+MR-0085,Projector,Auditorium,Projector in Auditorium has no power,No power,Power supply fault,Inspect and replace power supply component,2500.0,2.0,High,Resolved,Confirmed
+MR-0086,Projector,Block D,Projector at Block D is reporting no display,No display,Lamp failure,Replace projector lamp and test display,5000.0,2.0,High,Resolved,Confirmed
+MR-0087,Projector,Hostel A,Projector in Hostel A shows dim display,Dim display,Lamp nearing end of life,Replace projector lamp,5000.0,1.5,Medium,Resolved,Confirmed
+MR-0088,Projector,Block B,Projector at Block B has a complaint of overheating,Overheating,Blocked ventilation filter,Clean ventilation filter and cooling path,900.0,1.5,Medium,Resolved,Confirmed
+MR-0089,Projector,Laboratory,Projector in Laboratory has image flickering,Image flickering,Loose display cable,Reconnect or replace display cable,700.0,1.0,Medium,Resolved,Confirmed
+MR-0090,Projector,Auditorium,Projector at Auditorium is reporting no power,No power,Power supply fault,Inspect and replace power supply component,2500.0,2.0,High,Resolved,Confirmed
+MR-0091,Projector,Block D,Projector in Block D shows no display,No display,Lamp failure,Replace projector lamp and test display,5000.0,2.0,High,Resolved,Confirmed
+MR-0092,Projector,Hostel A,Projector at Hostel A has a complaint of dim display,Dim display,Lamp nearing end of life,Replace projector lamp,5000.0,1.5,Medium,Resolved,Confirmed
+MR-0093,Projector,Block B,Projector in Block B has overheating,Overheating,Blocked ventilation filter,Clean ventilation filter and cooling path,900.0,1.5,Medium,Resolved,Confirmed
+MR-0094,Projector,Laboratory,Projector at Laboratory is reporting image flickering,Image flickering,Loose display cable,Reconnect or replace display cable,700.0,1.0,Medium,Resolved,Confirmed
+MR-0095,Projector,Auditorium,Projector in Auditorium shows no power,No power,Power supply fault,Inspect and replace power supply component,2500.0,2.0,High,Resolved,Confirmed
+MR-0096,Projector,Block D,Projector at Block D has a complaint of no display,No display,Lamp failure,Replace projector lamp and test display,5000.0,2.0,High,Resolved,Confirmed
+MR-0097,Projector,Hostel A,Projector in Hostel A has dim display,Dim display,Lamp nearing end of life,Replace projector lamp,5000.0,1.5,Medium,Resolved,Confirmed
+MR-0098,Projector,Block B,Projector at Block B is reporting overheating,Overheating,Blocked ventilation filter,Clean ventilation filter and cooling path,900.0,1.5,Medium,Resolved,Confirmed
+MR-0099,Projector,Laboratory,Projector in Laboratory shows image flickering,Image flickering,Loose display cable,Reconnect or replace display cable,700.0,1.0,Medium,Resolved,Confirmed
+MR-0100,Projector,Auditorium,Projector at Auditorium has a complaint of no power,No power,Power supply fault,Inspect and replace power supply component,2500.0,2.0,High,Resolved,Confirmed
+MR-0161,Refrigerator,Block D,Refrigerator in Block D has not cooling,Not cooling,Compressor fault,Inspect compressor and replace if required,5500.0,4.0,High,Resolved,Confirmed
+MR-0162,Refrigerator,Hostel A,Refrigerator at Hostel A is reporting water leaking,Water leaking,Blocked drain,Clean and unblock drain line,800.0,1.0,Medium,Resolved,Confirmed
+MR-0163,Refrigerator,Block B,Refrigerator in Block B shows excessive frost,Excessive frost,Door gasket damage,Replace damaged door gasket,1200.0,1.5,Medium,Resolved,Confirmed
+MR-0164,Refrigerator,Laboratory,Refrigerator at Laboratory has a complaint of unusual noise,Unusual noise,Condenser fan wear,Inspect and replace condenser fan,2200.0,2.5,Medium,Resolved,Confirmed
+MR-0165,Refrigerator,Auditorium,Refrigerator in Auditorium has frequent cycling,Frequent cycling,Temperature sensor fault,Test and replace temperature sensor,1800.0,2.0,Medium,Resolved,Confirmed
+MR-0166,Refrigerator,Block D,Refrigerator at Block D is reporting not cooling,Not cooling,Compressor fault,Inspect compressor and replace if required,5500.0,4.0,High,Resolved,Confirmed
+MR-0167,Refrigerator,Hostel A,Refrigerator in Hostel A shows water leaking,Water leaking,Blocked drain,Clean and unblock drain line,800.0,1.0,Medium,Resolved,Confirmed
+MR-0168,Refrigerator,Block B,Refrigerator at Block B has a complaint of excessive frost,Excessive frost,Door gasket damage,Replace damaged door gasket,1200.0,1.5,Medium,Resolved,Confirmed
+MR-0169,Refrigerator,Laboratory,Refrigerator in Laboratory has unusual noise,Unusual noise,Condenser fan wear,Inspect and replace condenser fan,2200.0,2.5,Medium,Resolved,Confirmed
+MR-0170,Refrigerator,Auditorium,Refrigerator at Auditorium is reporting frequent cycling,Frequent cycling,Temperature sensor fault,Test and replace temperature sensor,1800.0,2.0,Medium,Resolved,Confirmed
+MR-0171,Refrigerator,Block D,Refrigerator in Block D shows not cooling,Not cooling,Compressor fault,Inspect compressor and replace if required,5500.0,4.0,High,Resolved,Confirmed
+MR-0172,Refrigerator,Hostel A,Refrigerator at Hostel A has a complaint of water leaking,Water leaking,Blocked drain,Clean and unblock drain line,800.0,1.0,Medium,Resolved,Confirmed
+MR-0173,Refrigerator,Block B,Refrigerator in Block B has excessive frost,Excessive frost,Door gasket damage,Replace damaged door gasket,1200.0,1.5,Medium,Resolved,Confirmed
+MR-0174,Refrigerator,Laboratory,Refrigerator at Laboratory is reporting unusual noise,Unusual noise,Condenser fan wear,Inspect and replace condenser fan,2200.0,2.5,Medium,Resolved,Confirmed
+MR-0175,Refrigerator,Auditorium,Refrigerator in Auditorium shows frequent cycling,Frequent cycling,Temperature sensor fault,Test and replace temperature sensor,1800.0,2.0,Medium,Resolved,Confirmed
+MR-0176,Refrigerator,Block D,Refrigerator at Block D has a complaint of not cooling,Not cooling,Compressor fault,Inspect compressor and replace if required,5500.0,4.0,High,Resolved,Confirmed
+MR-0177,Refrigerator,Hostel A,Refrigerator in Hostel A has water leaking,Water leaking,Blocked drain,Clean and unblock drain line,800.0,1.0,Medium,Resolved,Confirmed
+MR-0178,Refrigerator,Block B,Refrigerator at Block B is reporting excessive frost,Excessive frost,Door gasket damage,Replace damaged door gasket,1200.0,1.5,Medium,Resolved,Confirmed
+MR-0179,Refrigerator,Laboratory,Refrigerator in Laboratory shows unusual noise,Unusual noise,Condenser fan wear,Inspect and replace condenser fan,2200.0,2.5,Medium,Resolved,Confirmed
+MR-0180,Refrigerator,Auditorium,Refrigerator at Auditorium has a complaint of frequent cycling,Frequent cycling,Temperature sensor fault,Test and replace temperature sensor,1800.0,2.0,Medium,Resolved,Confirmed
+MR-0181,Water Cooler,Block D,Water Cooler in Block D has not cooling,Not cooling,Cooling compressor fault,Inspect compressor and cooling circuit,3500.0,3.0,High,Resolved,Confirmed
+MR-0182,Water Cooler,Hostel A,Water Cooler at Hostel A is reporting water leakage,Water leakage,Damaged pipe connection,Replace damaged connection and test for leakage,700.0,1.0,Medium,Resolved,Confirmed
+MR-0183,Water Cooler,Block B,Water Cooler in Block B shows low water flow,Low water flow,Blocked filter,Clean or replace water filter,500.0,0.75,Low,Resolved,Confirmed
+MR-0184,Water Cooler,Laboratory,Water Cooler at Laboratory has a complaint of unusual noise,Unusual noise,Fan motor wear,Inspect and replace fan motor,1800.0,2.0,Medium,Resolved,Confirmed
+MR-0185,Water Cooler,Auditorium,Water Cooler in Auditorium has not cooling,Not cooling,Cooling compressor fault,Inspect compressor and cooling circuit,3500.0,3.0,High,Resolved,Confirmed
+MR-0186,Water Cooler,Block D,Water Cooler at Block D is reporting water leakage,Water leakage,Damaged pipe connection,Replace damaged connection and test for leakage,700.0,1.0,Medium,Resolved,Confirmed
+MR-0187,Water Cooler,Hostel A,Water Cooler in Hostel A shows low water flow,Low water flow,Blocked filter,Clean or replace water filter,500.0,0.75,Low,Resolved,Confirmed
+MR-0188,Water Cooler,Block B,Water Cooler at Block B has a complaint of unusual noise,Unusual noise,Fan motor wear,Inspect and replace fan motor,1800.0,2.0,Medium,Resolved,Confirmed
+MR-0189,Water Cooler,Laboratory,Water Cooler in Laboratory has not cooling,Not cooling,Cooling compressor fault,Inspect compressor and cooling circuit,3500.0,3.0,High,Resolved,Confirmed
+MR-0190,Water Cooler,Auditorium,Water Cooler at Auditorium is reporting water leakage,Water leakage,Damaged pipe connection,Replace damaged connection and test for leakage,700.0,1.0,Medium,Resolved,Confirmed
+MR-0191,Water Cooler,Block D,Water Cooler in Block D shows low water flow,Low water flow,Blocked filter,Clean or replace water filter,500.0,0.75,Low,Resolved,Confirmed
+MR-0192,Water Cooler,Hostel A,Water Cooler at Hostel A has a complaint of unusual noise,Unusual noise,Fan motor wear,Inspect and replace fan motor,1800.0,2.0,Medium,Resolved,Confirmed
+MR-0193,Water Cooler,Block B,Water Cooler in Block B has not cooling,Not cooling,Cooling compressor fault,Inspect compressor and cooling circuit,3500.0,3.0,High,Resolved,Confirmed
+MR-0194,Water Cooler,Laboratory,Water Cooler at Laboratory is reporting water leakage,Water leakage,Damaged pipe connection,Replace damaged connection and test for leakage,700.0,1.0,Medium,Resolved,Confirmed
+MR-0195,Water Cooler,Auditorium,Water Cooler in Auditorium shows low water flow,Low water flow,Blocked filter,Clean or replace water filter,500.0,0.75,Low,Resolved,Confirmed
+MR-0196,Water Cooler,Block D,Water Cooler at Block D has a complaint of unusual noise,Unusual noise,Fan motor wear,Inspect and replace fan motor,1800.0,2.0,Medium,Resolved,Confirmed
+MR-0197,Water Cooler,Hostel A,Water Cooler in Hostel A has not cooling,Not cooling,Cooling compressor fault,Inspect compressor and cooling circuit,3500.0,3.0,High,Resolved,Confirmed
+MR-0198,Water Cooler,Block B,Water Cooler at Block B is reporting water leakage,Water leakage,Damaged pipe connection,Replace damaged connection and test for leakage,700.0,1.0,Medium,Resolved,Confirmed
+MR-0199,Water Cooler,Laboratory,Water Cooler in Laboratory shows low water flow,Low water flow,Blocked filter,Clean or replace water filter,500.0,0.75,Low,Resolved,Confirmed
+MR-0200,Water Cooler,Auditorium,Water Cooler at Auditorium has a complaint of unusual noise,Unusual noise,Fan motor wear,Inspect and replace fan motor,1800.0,2.0,Medium,Resolved,Confirmed
+MR-0061,Water Pump,Block D,Water Pump in Block D has pump not running,Pump not running,Motor electrical fault,Inspect motor wiring and repair electrical fault,2500.0,2.5,High,Resolved,Confirmed
+MR-0062,Water Pump,Hostel A,Water Pump at Hostel A is reporting low water pressure,Low water pressure,Impeller wear,Inspect and replace worn impeller,2800.0,3.0,Medium,Resolved,Confirmed
+MR-0063,Water Pump,Block B,Water Pump in Block B shows loud noise,Loud noise,Bearing wear,Replace worn pump bearings,2200.0,2.5,Medium,Resolved,Confirmed
+MR-0064,Water Pump,Laboratory,Water Pump at Laboratory has a complaint of water leakage,Water leakage,Mechanical seal failure,Replace mechanical seal and test pump,1800.0,2.0,High,Resolved,Confirmed
+MR-0065,Water Pump,Auditorium,Water Pump in Auditorium has frequent shutdown,Frequent shutdown,Motor overheating,Inspect motor cooling and electrical load,3000.0,3.0,High,Resolved,Confirmed
+MR-0066,Water Pump,Block D,Water Pump at Block D is reporting pump not running,Pump not running,Motor electrical fault,Inspect motor wiring and repair electrical fault,2500.0,2.5,High,Resolved,Confirmed
+MR-0067,Water Pump,Hostel A,Water Pump in Hostel A shows low water pressure,Low water pressure,Impeller wear,Inspect and replace worn impeller,2800.0,3.0,Medium,Resolved,Confirmed
+MR-0068,Water Pump,Block B,Water Pump at Block B has a complaint of loud noise,Loud noise,Bearing wear,Replace worn pump bearings,2200.0,2.5,Medium,Resolved,Confirmed
+MR-0069,Water Pump,Laboratory,Water Pump in Laboratory has water leakage,Water leakage,Mechanical seal failure,Replace mechanical seal and test pump,1800.0,2.0,High,Resolved,Confirmed
+MR-0070,Water Pump,Auditorium,Water Pump at Auditorium is reporting frequent shutdown,Frequent shutdown,Motor overheating,Inspect motor cooling and electrical load,3000.0,3.0,High,Resolved,Confirmed
+MR-0071,Water Pump,Block D,Water Pump in Block D shows pump not running,Pump not running,Motor electrical fault,Inspect motor wiring and repair electrical fault,2500.0,2.5,High,Resolved,Confirmed
+MR-0072,Water Pump,Hostel A,Water Pump at Hostel A has a complaint of low water pressure,Low water pressure,Impeller wear,Inspect and replace worn impeller,2800.0,3.0,Medium,Resolved,Confirmed
+MR-0073,Water Pump,Block B,Water Pump in Block B has loud noise,Loud noise,Bearing wear,Replace worn pump bearings,2200.0,2.5,Medium,Resolved,Confirmed
+MR-0074,Water Pump,Laboratory,Water Pump at Laboratory is reporting water leakage,Water leakage,Mechanical seal failure,Replace mechanical seal and test pump,1800.0,2.0,High,Resolved,Confirmed
+MR-0075,Water Pump,Auditorium,Water Pump in Auditorium shows frequent shutdown,Frequent shutdown,Motor overheating,Inspect motor cooling and electrical load,3000.0,3.0,High,Resolved,Confirmed
+MR-0076,Water Pump,Block D,Water Pump at Block D has a complaint of pump not running,Pump not running,Motor electrical fault,Inspect motor wiring and repair electrical fault,2500.0,2.5,High,Resolved,Confirmed
+MR-0077,Water Pump,Hostel A,Water Pump in Hostel A has low water pressure,Low water pressure,Impeller wear,Inspect and replace worn impeller,2800.0,3.0,Medium,Resolved,Confirmed
+MR-0078,Water Pump,Block B,Water Pump at Block B is reporting loud noise,Loud noise,Bearing wear,Replace worn pump bearings,2200.0,2.5,Medium,Resolved,Confirmed
+MR-0079,Water Pump,Laboratory,Water Pump in Laboratory shows water leakage,Water leakage,Mechanical seal failure,Replace mechanical seal and test pump,1800.0,2.0,High,Resolved,Confirmed
+MR-0080,Water Pump,Auditorium,Water Pump at Auditorium has a complaint of frequent shutdown,Frequent shutdown,Motor overheating,Inspect motor cooling and electrical load,3000.0,3.0,High,Resolved,Confirmed
+MR-0141,Wi-Fi Access Point,Block D,Wi-Fi Access Point in Block D has no internet connection,No internet connection,Network uplink failure,Check uplink cable and network switch connection,700.0,1.0,High,Resolved,Confirmed
+MR-0142,Wi-Fi Access Point,Hostel A,Wi-Fi Access Point at Hostel A is reporting weak signal,Weak signal,Access point placement issue,Reposition access point and verify signal coverage,1000.0,2.0,Medium,Resolved,Confirmed
+MR-0143,Wi-Fi Access Point,Block B,Wi-Fi Access Point in Block B shows frequent disconnection,Frequent disconnection,Firmware instability,Update firmware and verify configuration,500.0,1.5,Medium,Resolved,Confirmed
+MR-0144,Wi-Fi Access Point,Laboratory,Wi-Fi Access Point at Laboratory has a complaint of device offline,Device offline,Power over Ethernet failure,Check PoE port and cable connection,900.0,1.5,High,Resolved,Confirmed
+MR-0145,Wi-Fi Access Point,Auditorium,Wi-Fi Access Point in Auditorium has slow connection,Slow connection,High client load,Review connected clients and optimize access point configuration,800.0,2.0,Medium,Resolved,Confirmed
+MR-0146,Wi-Fi Access Point,Block D,Wi-Fi Access Point at Block D is reporting no internet connection,No internet connection,Network uplink failure,Check uplink cable and network switch connection,700.0,1.0,High,Resolved,Confirmed
+MR-0147,Wi-Fi Access Point,Hostel A,Wi-Fi Access Point in Hostel A shows weak signal,Weak signal,Access point placement issue,Reposition access point and verify signal coverage,1000.0,2.0,Medium,Resolved,Confirmed
+MR-0148,Wi-Fi Access Point,Block B,Wi-Fi Access Point at Block B has a complaint of frequent disconnection,Frequent disconnection,Firmware instability,Update firmware and verify configuration,500.0,1.5,Medium,Resolved,Confirmed
+MR-0149,Wi-Fi Access Point,Laboratory,Wi-Fi Access Point in Laboratory has device offline,Device offline,Power over Ethernet failure,Check PoE port and cable connection,900.0,1.5,High,Resolved,Confirmed
+MR-0150,Wi-Fi Access Point,Auditorium,Wi-Fi Access Point at Auditorium is reporting slow connection,Slow connection,High client load,Review connected clients and optimize access point configuration,800.0,2.0,Medium,Resolved,Confirmed
+MR-0151,Wi-Fi Access Point,Block D,Wi-Fi Access Point in Block D shows no internet connection,No internet connection,Network uplink failure,Check uplink cable and network switch connection,700.0,1.0,High,Resolved,Confirmed
+MR-0152,Wi-Fi Access Point,Hostel A,Wi-Fi Access Point at Hostel A has a complaint of weak signal,Weak signal,Access point placement issue,Reposition access point and verify signal coverage,1000.0,2.0,Medium,Resolved,Confirmed
+MR-0153,Wi-Fi Access Point,Block B,Wi-Fi Access Point in Block B has frequent disconnection,Frequent disconnection,Firmware instability,Update firmware and verify configuration,500.0,1.5,Medium,Resolved,Confirmed
+MR-0154,Wi-Fi Access Point,Laboratory,Wi-Fi Access Point at Laboratory is reporting device offline,Device offline,Power over Ethernet failure,Check PoE port and cable connection,900.0,1.5,High,Resolved,Confirmed
+MR-0155,Wi-Fi Access Point,Auditorium,Wi-Fi Access Point in Auditorium shows slow connection,Slow connection,High client load,Review connected clients and optimize access point configuration,800.0,2.0,Medium,Resolved,Confirmed
+MR-0156,Wi-Fi Access Point,Block D,Wi-Fi Access Point at Block D has a complaint of no internet connection,No internet connection,Network uplink failure,Check uplink cable and network switch connection,700.0,1.0,High,Resolved,Confirmed
+MR-0157,Wi-Fi Access Point,Hostel A,Wi-Fi Access Point in Hostel A has weak signal,Weak signal,Access point placement issue,Reposition access point and verify signal coverage,1000.0,2.0,Medium,Resolved,Confirmed
+MR-0158,Wi-Fi Access Point,Block B,Wi-Fi Access Point at Block B is reporting frequent disconnection,Frequent disconnection,Firmware instability,Update firmware and verify configuration,500.0,1.5,Medium,Resolved,Confirmed
+MR-0159,Wi-Fi Access Point,Laboratory,Wi-Fi Access Point in Laboratory shows device offline,Device offline,Power over Ethernet failure,Check PoE port and cable connection,900.0,1.5,High,Resolved,Confirmed
+MR-0160,Wi-Fi Access Point,Auditorium,Wi-Fi Access Point at Auditorium has a complaint of slow connection,Slow connection,High client load,Review connected clients and optimize access point configuration,800.0,2.0,Medium,Resolved,Confirmed
