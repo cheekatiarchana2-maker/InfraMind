@@ -1,0 +1,35 @@
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    container_name: facilityai-backend
+    ports:
+      - "8000:8000"
+    environment:
+      - APP_NAME=FacilityAI
+      - ENVIRONMENT=production
+      - DEBUG=False
+      - LLM_PROVIDER=fallback
+      - LLM_MODEL=gpt-4o-mini
+      - OPENAI_API_KEY=${OPENAI_API_KEY:-}
+      - GEMINI_API_KEY=${GEMINI_API_KEY:-}
+      - EMBEDDING_MODEL=sentence-transformers/all-MiniLM-L6-v2
+      - FRONTEND_URL=http://localhost:5173
+      - TOP_K_CASES=5
+    volumes:
+      - ./backend/vector_db:/app/backend/vector_db
+    restart: unless-stopped
+
+  frontend:
+    build:
+      context: .
+      dockerfile: frontend/Dockerfile
+      args:
+        - VITE_API_BASE_URL=http://localhost:8000
+    container_name: facilityai-frontend
+    ports:
+      - "5173:80"
+    depends_on:
+      - backend
+    restart: unless-stopped
